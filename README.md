@@ -18,8 +18,8 @@ Extract the coefficients of the model using model.coef_.Extract the intercept of
 
 ## Program:
 ```python
-Developed By: VISHWA V
-Ref no :212224110062
+Developed By:RITHIK V 
+Ref no :212223230171
 
 
 import pandas as pd
@@ -35,7 +35,8 @@ print(regression.predict([[3300,1300]]))
 
 ```
 ## Output:
+![image](https://github.com/user-attachments/assets/48c2dafa-adec-4b9f-9598-01f1d63f11c2)
 
-![alt text](<Screenshot 2025-05-22 091019.png>)
+
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
